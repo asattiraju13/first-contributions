@@ -3331,7 +3331,6 @@ Disguy
 - [Hoshner Tavadia](https://github.com/tavadia-hoshner)
 - [AkshayHere](https://github.com/AkshayHere)
 - [Jeongbin Seo](https://github.com/seojbin)
-- asattiraju13
 - [heechan3188](https://github.com/heechan3188)
 - [minsung](https://github.com/minsungk02)
 - [seungbin0131](https://github.com/seungbin0131)
