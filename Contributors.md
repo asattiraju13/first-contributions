@@ -3279,9 +3279,7 @@ Disguy
 - [Raymart Guioguio](https://github.com/rymrtpgg)
 - [Amelia Chiu](https://github.com/ZeroCircles)
 - [Jason Wang](https://github.com/JsonWang95)
-
 - [Subin Park](https://github.com/IamSOL1)
-
 - [LianWen wu](https://github.com/childrentime)
 - [Yusong Wu](lukewys.github.io)
 - [Cindy Li] (https://github.com/cli-cli)
@@ -3333,6 +3331,7 @@ Disguy
 - [Hoshner Tavadia](https://github.com/tavadia-hoshner)
 - [AkshayHere](https://github.com/AkshayHere)
 - [Jeongbin Seo](https://github.com/seojbin)
+- asattiraju13
 - [heechan3188](https://github.com/heechan3188)
 - [minsung](https://github.com/minsungk02)
 - [seungbin0131](https://github.com/seungbin0131)
